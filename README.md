@@ -15,7 +15,8 @@
   - Comprehensive knowledge of responsive web design, cross-device support, cross-browser issue.
   - Collaborate with other teams to produce work that exceeds expectations. 
 
-<div align=center> Contact
+<div align=center> 
+  ### Contact
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moon-sirl-hwang-351728225/)](https://www.linkedin.com/in/moon-sirl-hwang-351728225/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonsirl9123@gmail.com)](mailto:moonsirl9123@gmail.com)
