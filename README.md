@@ -7,13 +7,14 @@
 </div>
   
   ### Front-end Developer
-  Key Skills 
-
+  I have 💁🏼
   - Excellent verbal and written communication skills and English skill (Written & Spoken). 
   - Understanding of React.js and its core principles. 
   - Experience in CSS Pre-processing (SASS, SCSS), including mixins, variables, etc… 
   - Comprehensive knowledge of responsive web design, cross-device support, cross-browser issue.
-  - Collaborate with other teams to produce work that exceeds expectations. 
+
+ Also, I enjoy running 🏃‍♀️  and love pilates !
+ 
 
 <div align=center> 
   
