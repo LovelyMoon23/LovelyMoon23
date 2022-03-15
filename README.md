@@ -1,4 +1,4 @@
-### Hi there 🤓
+### Hi there! I am Moon 🌙 
 
 <div align=center>
 
@@ -9,8 +9,7 @@
   ### Front-end Developer
   Key Skills 
 
-  - Excellent verbal and written communication skills.
-  - English skill (Written & Spoken). 
+  - Excellent verbal and written communication skills and English skill (Written & Spoken). 
   - Understanding of React.js and its core principles. 
   - Experience in CSS Pre-processing (SASS, SCSS), including mixins, variables, etc… 
   - Comprehensive knowledge of responsive web design, cross-device support, cross-browser issue.
@@ -19,6 +18,7 @@
 <div align=center> Contact
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moon-sirl-hwang-351728225/)](https://www.linkedin.com/in/moon-sirl-hwang-351728225/) 
+  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonsirl9123@gmail.com)](mailto:moonsirl9123@gmail.com)
   
 </div>
