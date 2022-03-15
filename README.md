@@ -18,7 +18,6 @@
 <div align=center> Contact
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moon-sirl-hwang-351728225/)](https://www.linkedin.com/in/moon-sirl-hwang-351728225/) 
-  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonsirl9123@gmail.com)](mailto:moonsirl9123@gmail.com)
   
 </div>
